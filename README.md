@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm JantBogard
 
-<figure><embed src="https://wakatime.com/share/@JantBogard/2688e942-0e44-4794-a8ac-d0cd5f4523f8.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@JantBogard/7d92ebfa-a68d-4146-bb2b-b7133882f1fc.png
+    :target: https://wakatime.com/
 
